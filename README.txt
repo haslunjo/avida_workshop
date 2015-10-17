@@ -1,1 +1,3 @@
-hello my name is josh
+hello my name is Joshua Haslun 
+
+I'm dynomite
